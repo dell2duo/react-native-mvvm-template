@@ -19,7 +19,7 @@ class CounterController extends React.Component<
    * Controller is used in this situation to
    * control the lifecycle of the component
    * and to handle the logic of the component,
-   * so as some states of the component
+   * so as some local states.
    */
 
   componentDidMount = () => {
